@@ -1,6 +1,6 @@
 {
   "name": "briebug-cordova-screenshot",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Cordova Screenshot plugin",
   "cordova": {
     "id": "briebug-cordova-screenshot",
